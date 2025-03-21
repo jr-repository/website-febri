@@ -46,7 +46,7 @@ const Navbar = () => {
     <header className={`fixed w-full z-50 transition-all duration-300 bg-white shadow-sm py-2`}>
       <div className="container-custom">
         <div className="flex items-center justify-between">
-          <Link to="/" className="flex items-center">
+          <Link to="/src/assets/logo.png" className="flex items-center">
             <img src={logo} alt="MaxClean Logo" className="h-12 w-12 mr-2" />
             <div className="text-blue-dark font-bold text-xl md:text-2xl">
               <span className="text-gradient">MaxClean</span>

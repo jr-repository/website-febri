@@ -12,7 +12,7 @@ const Products = () => {
     {
       id: 1,
       name: "Pressure Washer Pro X2000",
-      image: "https://images.unsplash.com/photo-1674468576904-c5a6c6367e0f?q=80&w=3347&auto=format&fit=crop",
+      image: "/src/img/3.png",
       category: "Pressure Washer",
       rentalPrice: "Rp 250.000",
       salesPrice: "Rp 5.500.000",
@@ -21,7 +21,7 @@ const Products = () => {
     {
       id: 2,
       name: "Foam Cannon Deluxe Gold",
-      image: "https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?q=80&w=3387&auto=format&fit=crop",
+      image: "/src/img/4.png",
       category: "Foam Cannon",
       rentalPrice: "Rp 100.000",
       salesPrice: "Rp 1.200.000",
@@ -30,7 +30,7 @@ const Products = () => {
     {
       id: 3,
       name: "Vacuum Cleaner Industrial",
-      image: "https://images.unsplash.com/photo-1558317374-067fb5f30001?q=80&w=3456&auto=format&fit=crop",
+      image: "/src/img//5.png",
       category: "Vacuum Cleaner",
       rentalPrice: "Rp 150.000",
       salesPrice: "Rp 3.800.000",
@@ -39,7 +39,7 @@ const Products = () => {
     {
       id: 4,
       name: "Polisher Machine Pro",
-      image: "https://images.unsplash.com/photo-1614977294886-2def7e8dbcd5?q=80&w=3426&auto=format&fit=crop",
+      image: "/src/img/6.png",
       category: "Polisher",
       rentalPrice: "Rp 200.000",
       salesPrice: "Rp 4.500.000",
@@ -48,7 +48,7 @@ const Products = () => {
     {
       id: 5,
       name: "High Pressure Washer Compact",
-      image: "https://images.unsplash.com/photo-1620990595250-0162c6cce203?q=80&w=2000&auto=format&fit=crop",
+      image: "/src/img/7.png",
       category: "Pressure Washer",
       rentalPrice: "Rp 180.000",
       salesPrice: "Rp 3.200.000",
@@ -57,7 +57,7 @@ const Products = () => {
     {
       id: 6,
       name: "Snow Foam Lance Premium",
-      image: "https://images.unsplash.com/photo-1503516459261-40c66117780a?q=80&w=3269&auto=format&fit=crop",
+      image: "/src/img/8.png",
       category: "Foam Cannon",
       rentalPrice: "Rp 80.000",
       salesPrice: "Rp 900.000",
@@ -66,7 +66,7 @@ const Products = () => {
     {
       id: 7,
       name: "Car Dryer Blower Professional",
-      image: "https://images.unsplash.com/photo-1635274359662-eea591cc2c25?q=80&w=3870&auto=format&fit=crop",
+      image: "/src/img/9.png",
       category: "Dryer",
       rentalPrice: "Rp 120.000",
       salesPrice: "Rp 2.800.000",
@@ -75,7 +75,7 @@ const Products = () => {
     {
       id: 8,
       name: "Steam Cleaner All-in-One",
-      image: "https://images.unsplash.com/photo-1636919831332-d041a2a22948?q=80&w=2000&auto=format&fit=crop",
+      image: "/src/img/10.png",
       category: "Steam Cleaner",
       rentalPrice: "Rp 220.000",
       salesPrice: "Rp 4.900.000",
@@ -84,7 +84,7 @@ const Products = () => {
     {
       id: 9,
       name: "Interior Vacuum Mini",
-      image: "https://images.unsplash.com/photo-1527689638836-411945a2b57c?q=80&w=3456&auto=format&fit=crop",
+      image: "/src/img/10.png",
       category: "Vacuum Cleaner",
       rentalPrice: "Rp 90.000",
       salesPrice: "Rp 1.500.000",
@@ -93,7 +93,7 @@ const Products = () => {
     {
       id: 10,
       name: "Dual Action Polisher",
-      image: "https://images.unsplash.com/photo-1621309073282-78c2c85b36bd?q=80&w=3442&auto=format&fit=crop",
+      image: "/src/img/4.png",
       category: "Polisher",
       rentalPrice: "Rp 180.000",
       salesPrice: "Rp 3.800.000",
@@ -102,7 +102,7 @@ const Products = () => {
     {
       id: 11,
       name: "Carpet Extractor Heavy Duty",
-      image: "https://images.unsplash.com/photo-1629131726692-1accd0c53ce0?q=80&w=3474&auto=format&fit=crop",
+      image: "/src/img/7.png",
       category: "Carpet Cleaner",
       rentalPrice: "Rp 200.000",
       salesPrice: "Rp 5.200.000",
@@ -111,7 +111,7 @@ const Products = () => {
     {
       id: 12,
       name: "Portable Generator 2000W",
-      image: "https://images.unsplash.com/photo-1597068398551-87b05db4aba7?q=80&w=3456&auto=format&fit=crop",
+      image: "/src/img/9.png",
       category: "Generator",
       rentalPrice: "Rp 250.000",
       salesPrice: "Rp 6.500.000",

@@ -64,7 +64,7 @@ const HeroSection = () => {
                 <div className="flex space-x-4 items-center">
                   <div className="w-16 h-16 bg-white rounded-lg overflow-hidden">
                     <img 
-                      src="https://images.unsplash.com/photo-1601034913685-15aaef7ba75b?q=80&w=3387&auto=format&fit=crop" 
+                      src="/src/img/3.png" 
                       alt="Pressure Washer" 
                       className="w-full h-full object-cover"
                     />
@@ -78,7 +78,7 @@ const HeroSection = () => {
                 <div className="flex space-x-4 items-center">
                   <div className="w-16 h-16 bg-white rounded-lg overflow-hidden">
                     <img 
-                      src="https://images.unsplash.com/photo-1621510456686-1865883fad0c?q=80&w=2000&auto=format&fit=crop" 
+                      src="/src/img/4.png" 
                       alt="Foam Cannon" 
                       className="w-full h-full object-cover"
                     />
@@ -92,7 +92,7 @@ const HeroSection = () => {
                 <div className="flex space-x-4 items-center">
                   <div className="w-16 h-16 bg-white rounded-lg overflow-hidden">
                     <img 
-                      src="https://images.unsplash.com/photo-1605152276897-4f618f831968?q=80&w=2000&auto=format&fit=crop" 
+                      src="/src/img/5.png" 
                       alt="Vacuum Cleaner" 
                       className="w-full h-full object-cover"
                     />

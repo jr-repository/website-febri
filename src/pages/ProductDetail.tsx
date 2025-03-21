@@ -11,7 +11,7 @@ const dummyProducts: ProductType[] = [
   {
     id: 1,
     name: "Pressure Washer Pro X2000",
-    image: "https://images.unsplash.com/photo-1674468576904-c5a6c6367e0f?q=80&w=3347&auto=format&fit=crop",
+    image: "/src/img/3.png",
     category: "Pressure Washer",
     rentalPrice: "Rp 250.000",
     salesPrice: "Rp 5.500.000",
@@ -22,7 +22,7 @@ const dummyProducts: ProductType[] = [
   {
     id: 2,
     name: "Foam Cannon Deluxe Gold",
-    image: "https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?q=80&w=3387&auto=format&fit=crop",
+    image: "/src/img/4.png",
     category: "Foam Cannon",
     rentalPrice: "Rp 100.000",
     salesPrice: "Rp 1.200.000",
@@ -32,7 +32,7 @@ const dummyProducts: ProductType[] = [
   {
     id: 3,
     name: "Vacuum Cleaner Industrial",
-    image: "https://images.unsplash.com/photo-1558317374-067fb5f30001?q=80&w=3456&auto=format&fit=crop",
+    image: "/src/img/5.png",
     category: "Vacuum Cleaner",
     rentalPrice: "Rp 150.000",
     salesPrice: "Rp 3.800.000",
